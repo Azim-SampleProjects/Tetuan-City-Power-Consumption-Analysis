@@ -1,4 +1,4 @@
-Tetouan City Power Consumption Analysis
+# Tetouan City Power Consumption Analysis
 Project Overview
 This project analyzes electricity consumption across three distribution zones in Tetouan City, Morocco.
 
